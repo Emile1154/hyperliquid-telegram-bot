@@ -15,7 +15,7 @@ A Python-based Telegram bot that monitors top-performing traders on the [Hyperli
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Emile1154/hyperliquid-telegram-bot.git
 cd hyperliquid-telegram-bot
 ```
 

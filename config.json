@@ -1,0 +1,14 @@
+{
+    "credits": {
+        "CHAT_ID": "YOUR_CHAT_ID_HERE",
+        "TELEGRAM_TOKEN": "YOUR_BOT_TOKEN_HERE"
+    },
+    "attributes": {
+        "MIN_TRADES": 10,  
+        "POLL_INTERVAL": 50,  
+        "MIN_POSITION_SIZE": 15000,
+        "MIN_ROI": 100000,
+        "PERIOD": "allTime",
+        "PNL_MIN": 15000
+    }
+}
